@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bein-fe/static/css/main.971683b8.chunk.css",
+    "main.js": "/bein-fe/static/js/main.6c14fbee.chunk.js",
+    "main.js.map": "/bein-fe/static/js/main.6c14fbee.chunk.js.map",
+    "runtime-main.js": "/bein-fe/static/js/runtime-main.f2bd0dcb.js",
+    "runtime-main.js.map": "/bein-fe/static/js/runtime-main.f2bd0dcb.js.map",
+    "static/js/2.770f8c60.chunk.js": "/bein-fe/static/js/2.770f8c60.chunk.js",
+    "static/js/2.770f8c60.chunk.js.map": "/bein-fe/static/js/2.770f8c60.chunk.js.map",
+    "index.html": "/bein-fe/index.html",
+    "static/css/main.971683b8.chunk.css.map": "/bein-fe/static/css/main.971683b8.chunk.css.map",
+    "static/js/2.770f8c60.chunk.js.LICENSE.txt": "/bein-fe/static/js/2.770f8c60.chunk.js.LICENSE.txt",
+    "static/js/main.6c14fbee.chunk.js.LICENSE.txt": "/bein-fe/static/js/main.6c14fbee.chunk.js.LICENSE.txt",
+    "static/media/marc.e8607287.jpg": "/bein-fe/static/media/marc.e8607287.jpg",
+    "static/media/sidebar-1.0a127c58.jpg": "/bein-fe/static/media/sidebar-1.0a127c58.jpg",
+    "static/media/sidebar-2.22f68ba5.jpg": "/bein-fe/static/media/sidebar-2.22f68ba5.jpg",
+    "static/media/sidebar-3.e667b13e.jpg": "/bein-fe/static/media/sidebar-3.e667b13e.jpg",
+    "static/media/sidebar-4.dd4b5581.jpg": "/bein-fe/static/media/sidebar-4.dd4b5581.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2bd0dcb.js",
+    "static/js/2.770f8c60.chunk.js",
+    "static/css/main.971683b8.chunk.css",
+    "static/js/main.6c14fbee.chunk.js"
+  ]
+}
